@@ -59,6 +59,18 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🤝 Let's Connect :
+<div id="badges">
+    <a href="https://www.linkedin.com/in/hui-chyi-gui-47637b242/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge" />
+    </a>
+    <!-- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+        alt="Youtube Badge" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter Badge" /> -->
+</div>
+
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
