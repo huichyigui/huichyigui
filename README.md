@@ -1,4 +1,4 @@
-### <h1>Hi I am Hui Chyi</h1>
+### <h1 align="center">Hi, I am Hui Chyi ✌😀✌</h1>
 
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
