@@ -56,6 +56,8 @@
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;
 </div></br>
 
+---
+
 ### 🔥My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,6 +73,8 @@
             alt="Gmail Badge" />
     </a>
 </div>
+
+---
 
 Check the <a href="https://github.com/huichyigui">Repositories</a> and please don't forget to give a star. Thanks! ✌️😃✌️
 
