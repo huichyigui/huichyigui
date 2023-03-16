@@ -54,6 +54,9 @@
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>&nbsp;
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;
 </div></br>
+
+<b>📄 Stats</b>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huichyigui&show_icons=true&theme=radical)
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
