@@ -55,7 +55,8 @@
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;
 </div></br>
 
-<b>📄 Stats</b></br>
+### 🔥My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
