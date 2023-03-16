@@ -3,6 +3,9 @@
             programming and
             technology. Equipped with a diverse and promising skill-set.</i></p>
             <div align="center"><img src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" /></div>
+            
+### :woman_technologist: About Me :
+
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
