@@ -2,7 +2,7 @@
 <p align="center"><i>A undergraduate student and a software developer with good problem-solving skills. Passionate about
             programming and
             technology. Equipped with a diverse and promising skill-set.</i></p>
-            <img align="center" src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" />
+            <img margin-left="auto" margin-right="auto" src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" />
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
