@@ -59,8 +59,8 @@
 ---
 
 ### 🔥My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&theme=dark)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark)](https://git.io/streak-stats"/></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&theme=dark"/>
 
 ### 🤝 Let's Connect :
 <div id="badges">
