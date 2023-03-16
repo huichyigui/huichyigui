@@ -1,5 +1,7 @@
-### <h1 align="center">Hi, I am Hui Chyi ✌😀✌</h1>
-
+### <h1 align="center">Hi, I am Hui Chyi! ✌😀✌</h1>
+<p><i>A undergraduate student and a software developer with good problem-solving skills. Passionate about
+            programming and
+            technology. Equipped with a diverse and promising skill-set.</i></p>
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
