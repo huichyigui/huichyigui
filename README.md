@@ -4,6 +4,8 @@
             technology. Equipped with a diverse and promising skill-set.</i></p>
             <div align="center"><img src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" /></div>
             
+---          
+            
 ### :woman_technologist: About Me :
 - 👨🏽‍🎓 I am currently pursuing Bachelor Degree in Software System Development in <a href="https://www.tarc.edu.my/">TAR UMT</a>
 - 🖐 I am contributing to frontend and backend for building web and mobile applications.
@@ -14,7 +16,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills :
+
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
