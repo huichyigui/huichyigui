@@ -1,10 +1,4 @@
-### <div align="center">
-    <h1>Hi, I am Hui Chyi ✌😀✌</h1>
-    <p><i>A undergraduate student and a software developer with good problem-solving skills. Passionate about
-            programming and
-            technology. Equipped with a diverse and promising skill-set.</i></p>
-    <img src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" />
-</div>
+### <h1>Hi I am Hui Chyi</h1>
 
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
