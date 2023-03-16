@@ -23,8 +23,8 @@
             <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;            
             <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>&nbsp;            
             <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>&nbsp;            
-            <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat-square&logo=C-Sharp&logoColor=white"/>&nbsp;
-            <img src="https://a11ybadges.com/badge?logo=cplusplus"/>&nbsp; 
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>&nbsp;
+            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp; 
             <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/>&nbsp; 
             <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;         
             <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
