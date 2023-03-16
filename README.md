@@ -60,7 +60,7 @@
 
 ### 🔥My Stats :
 <img src="http://github-readme-streak-stats.herokuapp.com?user=huichyigui&theme=dark"/></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact&langs_count=8&theme=dark&custom_title=Hui%20Chyi's%20Top%Languages"/>
 
 ### 🤝 Let's Connect :
 <div id="badges">
