@@ -55,10 +55,9 @@
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;
 </div></br>
 
-<b>📄 Stats</b>
-<div>
-            ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huichyigui&show_icons=true&theme=radical)
-</div>
+<b>📄 Stats</b></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huichyigui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
