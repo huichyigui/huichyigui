@@ -7,6 +7,7 @@
 ---          
             
 ### :woman_technologist: About Me :
+- 😄 Pronouns: She/her
 - 👨🏽‍🎓 I am currently pursuing Bachelor Degree in Software System Development in <a href="https://www.tarc.edu.my/">TAR UMT</a>
 - 🖐 I am contributing to frontend and backend for building web and mobile applications.
 - 👨‍💻 All my projects are available at <a href="https://github.com/huichyigui">https://github.com/huichyigui</a>
@@ -62,14 +63,16 @@
 ### 🤝 Let's Connect :
 <div id="badges">
     <a href="https://www.linkedin.com/in/hui-chyi-gui-47637b242/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" />
     </a>
-    <!-- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-        alt="Youtube Badge" />
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Badge" /> -->
+   <a href="mailto:huichyigui@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"
+            alt="Gmail Badge" />
+    </a>
 </div>
+
+Check the <a href="https://github.com/huichyigui">Repositories</a> and please don't forget to give a star. Thanks! ✌️😃✌️
 
 <!--
 **huichyigui/huichyigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
