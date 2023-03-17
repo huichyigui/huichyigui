@@ -54,6 +54,7 @@
             <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white"/>&nbsp;
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>&nbsp;
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>&nbsp;
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;
 </div></br>
 
 ---
