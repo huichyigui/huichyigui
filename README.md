@@ -8,7 +8,7 @@
             
 ### :woman_technologist: About Me :
 - 😄 Pronouns: She/her
-- 👨🏽‍🎓 I am currently pursuing Bachelor Degree in Software System Development in <a href="https://www.tarc.edu.my/">TAR UMT</a>
+- 👨🏽‍🎓 I am a recent fresh graduate of Bachelor Degree in Software System Development in <a href="https://www.tarc.edu.my/">TAR UMT</a>
 - 🖐 I am contributing to frontend and backend for building web and mobile applications.
 - 👨‍💻 All my projects are available at <a href="https://github.com/huichyigui">https://github.com/huichyigui</a>
 - 🔭 I am interested in web, mobile and database development, and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
