@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi, I am Hui Chyi! ✌😀✌</h1>
-<p align="center"><i>A undergraduate student and a software developer with good problem-solving skills. Passionate about
+<p align="center"><i>A software developer with good problem-solving skills. Passionate about
             programming and
             technology. Equipped with a diverse and promising skill-set.</i></p>
             <div align="center"><img src="https://komarev.com/ghpvc/?username=huichyigui&style=flat-square&color=blue" alt="" /></div>
